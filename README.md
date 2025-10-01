@@ -32,7 +32,7 @@ This project leverages data-driven insights to help a nonprofit organization inc
 ## Results & Insights
 * Forecasting – Households projected to decline by ~5,633 between 2024–2027 (~4.45% drop).
 * Cultural Communities – Programs offering Spanish (+7.5%) and Vietnamese (+27.7%) services grew, while overall registrations declined (-6.7%).
-* Young Adults – 29% of participants are aged 18–39; engagement was higher in some regions (33%) compared to others (26%). Revenue, baptisms, and Hispanic/Latino counts positively correlated with young adult participation. An interactive Power BI dashboard further uncovered a 20% registration gap in young adult participation, and this finding was presented to the strategic planning team to drive new initiatives.
+* Young Adults – 29% of participants are aged 18–39; engagement was higher in some regions (33%) compared to others (26%). Revenue, baptisms, and Hispanic/Latino counts positively correlated with young adult participation. A 20% registration gap in young adult participation, and this finding was presented to the strategic planning team to drive new initiatives.
 * Language & Cultural Services – Non-English programs show significantly higher participation, though not necessarily higher financial outcomes.
 * Structural Changes – Communities transitioning from “mission” to “independent unit” saw stronger engagement and higher activity.
 * Clustering Insights – PCA revealed two dominant components:
